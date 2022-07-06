@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaique de Miranda! 👨
+### Olá, Eu sou o Kaique de Miranda... 👨
 
 <div align="center">
   <a href="https://github.com/kbdemiranda">
