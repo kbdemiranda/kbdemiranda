@@ -56,27 +56,26 @@ Java backend project for consolidating backend fundamentals and architectural co
 
 ---
 
-## 🏢 Professional Experience (Highlights)
+## 🏢 Professional Experience (Domains)
 
-- **Senior Backend / Full Stack Engineer**  
-  act digital — Trade Phone Project  
-  Java, Spring Boot, React, APIs, architecture decisions, LATAM teams
+Backend / Full Stack engineer with experience in **highly regulated and large-scale domains**, working on critical systems and complex integrations.
 
-- **Software Engineer**  
-  Banking systems with regulatory requirements  
-  Microservices, Redis, Kafka, SQL, TDD
+- **Insurance**  
+  Scalable platforms, API integrations, performance, security and maintainability.
 
-- **Senior Software Engineer**  
-  Telecom systems (OSS/BSS)  
-  Spring Boot, Kubernetes, Docker, CI/CD
+- **Banking & Financial Services**  
+  Systems under strict regulatory requirements, microservices, caching (Redis), messaging (Kafka), SQL optimization and TDD.
+
+- **Oil & Gas**  
+  Large-scale backend systems, data processing, monitoring solutions and enterprise-level architectures.
 
 ---
 
 ## 📚 Currently Improving
 
-- Cloud Architecture (AWS & Azure)
+- Cloud Architecture (AWS & GCP)
 - Mobile development (Flutter & Dart)
-- English (A2 → B1)
+- English (B1)
 
 ---
 
