@@ -4,70 +4,68 @@
 ☕ Java • Spring Boot • Microservices  
 🌍 São Paulo, Brazil | Open to global opportunities
 
-Backend-focused engineer with solid experience building **scalable, secure, and high-performance systems**, mainly in **Java & Spring Boot**, working on regulated environments (banking, telecom, oil & gas) and large-scale projects.
+Backend-focused engineer specialized in **Java & Spring Boot**, building  
+**high-throughput, regulated systems** with strong emphasis on  
+**architecture, performance, and reliability**.
 
 ---
 
 ## 🧠 Core Expertise
 
-- Backend development with **Java (8–21+)** and **Spring Boot**
-- REST APIs & Microservices
-- Relational Databases (PostgreSQL, SQL Server)
-- Caching & performance optimization (**Redis**)
-- Messaging & integration (**Kafka**)
-- Code quality, security & best practices
-- Agile environments (Scrum)
+- Java (8–21+) & Spring Boot ecosystem
+- RESTful APIs & Microservices architecture
+- SQL databases (PostgreSQL, SQL Server)
+- Performance & caching strategies (Redis)
+- Asynchronous communication (Kafka)
+- Code quality, security & scalability
+- Agile delivery in cross-functional teams
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Java • Spring Boot • Maven
-- PostgreSQL • Redis
-- Kafka
-- Flyway
-
-**Frontend**
-- TypeScript
-- Angular
-- React
-
-**DevOps / Cloud**
-- Docker • Kubernetes
-- CI/CD (Jenkins)
-- AWS • Azure (in progress)
+- **Languages:** Java, TypeScript  
+- **Backend:** Spring Boot, Maven, Flyway, Kafka  
+- **Databases:** PostgreSQL, SQL Server, Redis  
+- **Frontend:** Angular, React  
+- **DevOps / Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Vulpes API
-Java + Spring Boot backend project focused on clean architecture, best practices and maintainability.  
+Backend reference project focused on **clean architecture, domain separation  
+and production-ready patterns** using Java & Spring Boot.  
 🔗 https://github.com/kbdemiranda/vulpes-api
 
 ### 🔹 Vulpes Web
-Frontend project consuming the Vulpes API, applying separation of concerns and modern TypeScript practices.  
+Frontend project consuming the Vulpes API, applying **separation of concerns**  
+and modern TypeScript practices.  
 🔗 https://github.com/kbdemiranda/vulpes-web
 
 ### 🔹 NoAzul
-Java backend project for consolidating backend fundamentals and architectural concepts.  
+Java backend project created to consolidate **backend fundamentals,  
+design patterns and architectural concepts**.  
 🔗 https://github.com/kbdemiranda/NoAzul
 
 ---
 
 ## 🏢 Professional Experience (Domains)
 
-Backend / Full Stack engineer with experience in **highly regulated and large-scale domains**, working on critical systems and complex integrations.
+Experience delivering backend systems in **complex, regulated domains**,  
+handling critical data, integrations and performance-sensitive workloads.
 
 - **Insurance**  
   Scalable platforms, API integrations, performance, security and maintainability.
 
 - **Banking & Financial Services**  
-  Systems under strict regulatory requirements, microservices, caching (Redis), messaging (Kafka), SQL optimization and TDD.
+  Systems under strict regulatory requirements, microservices, caching (Redis),  
+  messaging (Kafka), SQL optimization and TDD.
 
 - **Oil & Gas**  
-  Large-scale backend systems, data processing, monitoring solutions and enterprise-level architectures.
+  Large-scale backend systems, data processing, monitoring solutions and  
+  enterprise-level architectures.
 
 ---
 
@@ -75,11 +73,11 @@ Backend / Full Stack engineer with experience in **highly regulated and large-sc
 
 - Cloud Architecture (AWS & GCP)
 - Mobile development (Flutter & Dart)
-- English (B1)
+- English (B1 → B2)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/kbdemiranda
+- LinkedIn: https://linkedin.com/in/kbdemiranda  
 - GitHub: https://github.com/kbdemiranda
