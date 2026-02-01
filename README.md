@@ -1,64 +1,86 @@
-# 👋 Olá, eu sou o Kaique
+# 👋 Hi, I'm Kaique Miranda
 
-💻 **Engenheiro de Software** com foco em **Backend (Java / Spring)**  
-🚀 Em evolução para **Fullstack**, com forte interesse em **Mobile**  
-📍 São Paulo, Brasil
+💻 **Senior Backend / Full Stack Engineer**  
+☕ Java • Spring Boot • Microservices  
+🌍 São Paulo, Brazil | Open to global opportunities
+
+Backend-focused engineer with solid experience building **scalable, secure, and high-performance systems**, mainly in **Java & Spring Boot**, working on regulated environments (banking, telecom, oil & gas) and large-scale projects.
 
 ---
 
-## 🛠️ Stack principal
+## 🧠 Core Expertise
+
+- Backend development with **Java (8–21+)** and **Spring Boot**
+- REST APIs & Microservices
+- Relational Databases (PostgreSQL, SQL Server)
+- Caching & performance optimization (**Redis**)
+- Messaging & integration (**Kafka**)
+- Code quality, security & best practices
+- Agile environments (Scrum)
+
+---
+
+## 🛠️ Tech Stack
 
 **Backend**
-- Java 21+
-- Spring Framework
-- Maven
-- PostgreSQL
+- Java • Spring Boot • Maven
+- PostgreSQL • Redis
+- Kafka
 - Flyway
-- Docker
 
-**Frontend / Outros**
+**Frontend**
 - TypeScript
-- Flutter & Dart (em estudo)
-- Go (em estudo)
-- Angular (em estudo)
+- Angular
+- React
+
+**DevOps / Cloud**
+- Docker • Kubernetes
+- CI/CD (Jenkins)
+- AWS • Azure (in progress)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 🔹 Vulpes API
-Backend em Java com Spring, focado em boas práticas, organização e arquitetura limpa.  
+Java + Spring Boot backend project focused on clean architecture, best practices and maintainability.  
 🔗 https://github.com/kbdemiranda/vulpes-api
 
 ### 🔹 Vulpes Web
-Frontend em TypeScript consumindo a API, com separação clara de responsabilidades.  
+Frontend project consuming the Vulpes API, applying separation of concerns and modern TypeScript practices.  
 🔗 https://github.com/kbdemiranda/vulpes-web
 
 ### 🔹 NoAzul
-Projeto backend em Java para estudo e consolidação de conceitos fundamentais.  
+Java backend project for consolidating backend fundamentals and architectural concepts.  
 🔗 https://github.com/kbdemiranda/NoAzul
 
 ---
 
-## 📚 Atualmente estudando
+## 🏢 Professional Experience (Highlights)
 
-- Flutter & Dart (mobile)
-- Go
-- Angular
-- Inglês técnico (A2 → B1)
+- **Senior Backend / Full Stack Engineer**  
+  act digital — Trade Phone Project  
+  Java, Spring Boot, React, APIs, architecture decisions, LATAM teams
 
----
+- **Software Engineer**  
+  Banking systems with regulatory requirements  
+  Microservices, Redis, Kafka, SQL, TDD
 
-## 🎯 Interesses profissionais
-
-- Backend com Java / Spring
-- Arquitetura limpa e boas práticas
-- Desenvolvimento mobile
-- Projetos reais e bem estruturados
+- **Senior Software Engineer**  
+  Telecom systems (OSS/BSS)  
+  Spring Boot, Kubernetes, Docker, CI/CD
 
 ---
 
-## 📫 Contato
+## 📚 Currently Improving
+
+- Cloud Architecture (AWS & Azure)
+- Mobile development (Flutter & Dart)
+- English (A2 → B1)
+
+---
+
+## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/kbdemiranda
 - GitHub: https://github.com/kbdemiranda
