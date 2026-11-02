@@ -1,83 +1,103 @@
 # 👋 Hi, I'm Kaique Miranda
 
-💻 **Senior Backend / Full Stack Engineer**  
-☕ Java • Spring Boot • Microservices  
-🌍 São Paulo, Brazil | Open to global opportunities
+**💻 Software Engineer | Java Backend & Full Stack Development**
 
-Backend-focused engineer specialized in **Java & Spring Boot**, building  
-**high-throughput, regulated systems** with strong emphasis on  
-**architecture, performance, and reliability**.
+📍 São Paulo, Brazil | 🌍 Open to international opportunities
 
----
+I'm a Software Engineer specializing in **Java, Spring Boot, and Full Stack development**, with experience building and maintaining enterprise applications across financial services, payment platforms, insurance, telecommunications, and other industries.
 
-## 🧠 Core Expertise
+My work spans backend development, REST APIs, event-driven integrations, cloud infrastructure, and frontend applications using **React and Angular**.
 
-- Java (8–21+) & Spring Boot ecosystem
-- RESTful APIs & Microservices architecture
-- SQL databases (PostgreSQL, SQL Server)
-- Performance & caching strategies (Redis)
-- Asynchronous communication (Kafka)
-- Code quality, security & scalability
-- Agile delivery in cross-functional teams
+I focus on writing maintainable code, designing reliable integrations, and improving software quality through automated testing, observability, and engineering best practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, TypeScript  
-- **Backend:** Spring Boot, Maven, Flyway, Kafka  
-- **Databases:** PostgreSQL, SQL Server, Redis  
-- **Frontend:** Angular, React  
-- **DevOps / Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP  
+| Area | Technologies |
+|---|---|
+| ☕ **Languages** | Java (11, 17, 21), Kotlin, TypeScript, JavaScript |
+| ⚙️ **Backend** | Spring Boot, REST APIs, Microservices |
+| 🎨 **Frontend** | Angular, React |
+| 🗄️ **Databases** | PostgreSQL, MySQL, Redis |
+| 📨 **Messaging** | Apache Kafka, AWS SQS |
+| ☁️ **Cloud** | AWS, Google Cloud Platform |
+| 🐳 **DevOps** | Docker, Kubernetes, Jenkins, CI/CD, Flyway |
+| 📊 **Observability** | Prometheus, Grafana, OpenTelemetry, Mimir |
+| 🧪 **Engineering** | Automated Testing, Design Patterns, Agile Development |
+
+---
+
+## 💼 Professional Experience
+
+Throughout my career, I've contributed to software solutions across different industries, including:
+
+### 🏦 Banking & Financial Services
+
+- Open Finance integrations and corporate financial platforms.
+- Banking data integrations and financial information processing.
+- Backend services built with Java, Spring Boot, PostgreSQL, and AWS.
+- Monitoring and observability using Grafana, Prometheus, and OpenTelemetry.
+
+### 💳 Payments & FinTech
+
+- B2B payment gateway development.
+- Credit and debit card processing integrations.
+- Event-driven communication using Apache Kafka.
+- Customer onboarding, external APIs, webhooks, and secure data handling.
+
+### 🛡️ Insurance & Technology Services
+
+- Smartphone trade-in and device evaluation platforms.
+- Backend APIs and frontend features using Java, Spring Boot, and Angular.
+- Application modernization, automated testing, and cloud integrations.
+
+### 🌐 Telecommunications & Environmental Technology
+
+- Enterprise application maintenance and feature development.
+- Legacy modernization and REST API evolution.
+- Participation in cloud migration planning and distributed development teams.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Vulpes API
-Backend reference project focused on **clean architecture, domain separation  
-and production-ready patterns** using Java & Spring Boot.  
-🔗 https://github.com/kbdemiranda/vulpes-api
+### 🔹 Splitfy — Subscription Management Platform
 
-### 🔹 Vulpes Web
-Frontend project consuming the Vulpes API, applying **separation of concerns**  
-and modern TypeScript practices.  
-🔗 https://github.com/kbdemiranda/vulpes-web
+A Full Stack application designed to manage shared subscriptions, subscriber allocations, recurring billing, and payment confirmation workflows.
 
-### 🔹 NoAzul
-Java backend project created to consolidate **backend fundamentals,  
-design patterns and architectural concepts**.  
-🔗 https://github.com/kbdemiranda/NoAzul
+The project is divided into three independent repositories, covering backend development, frontend interfaces, and database infrastructure.
 
----
+**Key Features:**
+- Subscription and subscriber management.
+- Monthly billing summaries and currency conversion.
+- Payment confirmation and administrative approval workflows.
+- JWT authentication and role-based access control.
+- Dashboard metrics and financial visibility.
+- Containerized development environments and versioned database migrations.
 
-## 🏢 Professional Experience (Domains)
+**Tech Stack:** Kotlin, Spring Boot, Angular, TypeScript, PostgreSQL, Redis, Flyway, Docker.
 
-Experience delivering backend systems in **complex, regulated domains**,  
-handling critical data, integrations and performance-sensitive workloads.
-
-- **Insurance**  
-  Scalable platforms, API integrations, performance, security and maintainability.
-
-- **Banking & Financial Services**  
-  Systems under strict regulatory requirements, microservices, caching (Redis),  
-  messaging (Kafka), SQL optimization and TDD.
-
-- **Oil & Gas**  
-  Large-scale backend systems, data processing, monitoring solutions and  
-  enterprise-level architectures.
+**Repositories:**
+- ⚙️ **Backend API:** [kotlin-splitfy-api](https://github.com/kbdemiranda/kotlin-splitfy-api)
+- 🎨 **Frontend:** [angular-splitfy-frontend](https://github.com/kbdemiranda/angular-splitfy-frontend)
+- 🗄️ **Database Infrastructure:** [infra-database-splitfy](https://github.com/kbdemiranda/infra-database-splitfy)
 
 ---
 
-## 📚 Currently Improving
+## 📚 Currently Exploring
 
-- Cloud Architecture (AWS & GCP)
-- Mobile development (Flutter & Dart)
-- English (B1 → B2)
+- ☁️ **Cloud Engineering:** Deepening my knowledge of AWS services and cloud architecture.
+- 🐹 **Go (Golang):** Exploring backend development and the Go ecosystem.
+- 🏗️ **Software Architecture:** Distributed systems, scalability, and event-driven design.
+- 🤖 **AI-Assisted Development:** Integrating AI tools into software engineering workflows.
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/kbdemiranda  
-- GitHub: https://github.com/kbdemiranda
+I'm interested in collaborating on engineering projects, exchanging technical knowledge, and exploring opportunities involving Java, backend architecture, and Full Stack development.
+
+- 💼 **LinkedIn:** [linkedin.com/in/kbdemiranda](https://linkedin.com/in/kbdemiranda)
+- 💻 **GitHub:** [github.com/kbdemiranda](https://github.com/kbdemiranda)
+- 🌎 **Languages:** Portuguese (Native) | English (B2)
